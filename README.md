@@ -19,3 +19,14 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+#### learn
+
+https://github.com/creativetimofficial/vuetify-material-dashboard
+
+换了个浏览器
+
+https://vuetifyjs.com/en/components/navigation-drawers/
+
+就可以看到组件对应的代码了。。。
