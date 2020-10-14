@@ -30,3 +30,6 @@ https://github.com/creativetimofficial/vuetify-material-dashboard
 https://vuetifyjs.com/en/components/navigation-drawers/
 
 就可以看到组件对应的代码了。。。
+
+
+[css中height 100vh的应用场景，动态高度百分比布局，浏览器视区大小单位](https://www.cnblogs.com/zdz8207/p/vue-height-vh.html)
